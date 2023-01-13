@@ -1,9 +1,12 @@
 tạo project:
     npx create-react-app my-app
 
-cấu hình eslint:
-    npm install eslint --save-dev
-    npx eslint --init
+# cấu hình eslint:
+#     npm install eslint --save-dev
+#     npx eslint --init
 cd my-app:
     npm i
     npm start   
+
+Cài đặt customize-cra:
+     npm i customize-cra react-app-rewired -D

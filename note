@@ -1,0 +1,9 @@
+tạo project:
+    npx create-react-app my-app
+
+cấu hình eslint:
+    npm install eslint --save-dev
+    npx eslint --init
+cd my-app:
+    npm i
+    npm start   

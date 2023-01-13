@@ -13,3 +13,6 @@ Cài đặt customize-cra:
 
 Cài đặt babel-plugin-module-resolver:
     npm i --save-dev babel-plugin-module-resolver
+
+Cài đặt và cấu hình Prettier:
+    

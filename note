@@ -15,4 +15,8 @@ Cài đặt babel-plugin-module-resolver:
     npm i --save-dev babel-plugin-module-resolver
 
 Cài đặt và cấu hình Prettier:
-    
+
+Cấu hình sử dụng CSS/SASS:
+    npm i --save normalize.css
+    npm i -D sass
+

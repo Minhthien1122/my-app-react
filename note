@@ -20,3 +20,10 @@ Cấu hình sử dụng CSS/SASS:
     npm i --save normalize.css
     npm i -D sass
 
+Cấu hình Router/Layout cho dự án:
+    npm i react-router-dom
+    Tạo page moi
+        - tạo src/pages/{newpage}
+        - thêm router tại src/router/index.js
+    Cơ chế tải layout:
+        
